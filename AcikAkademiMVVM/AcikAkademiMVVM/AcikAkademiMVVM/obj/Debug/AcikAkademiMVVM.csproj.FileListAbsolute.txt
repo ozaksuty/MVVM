@@ -1,0 +1,16 @@
+c:\users\yigit\documents\visual studio 2015\Projects\AcikAkademiMVVM\AcikAkademiMVVM\AcikAkademiMVVM\bin\Debug\AcikAkademiMVVM.dll
+c:\users\yigit\documents\visual studio 2015\Projects\AcikAkademiMVVM\AcikAkademiMVVM\AcikAkademiMVVM\bin\Debug\AcikAkademiMVVM.pdb
+c:\users\yigit\documents\visual studio 2015\Projects\AcikAkademiMVVM\AcikAkademiMVVM\AcikAkademiMVVM\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\yigit\documents\visual studio 2015\Projects\AcikAkademiMVVM\AcikAkademiMVVM\AcikAkademiMVVM\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\yigit\documents\visual studio 2015\Projects\AcikAkademiMVVM\AcikAkademiMVVM\AcikAkademiMVVM\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\yigit\documents\visual studio 2015\Projects\AcikAkademiMVVM\AcikAkademiMVVM\AcikAkademiMVVM\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\yigit\documents\visual studio 2015\Projects\AcikAkademiMVVM\AcikAkademiMVVM\AcikAkademiMVVM\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\yigit\documents\visual studio 2015\Projects\AcikAkademiMVVM\AcikAkademiMVVM\AcikAkademiMVVM\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\users\yigit\documents\visual studio 2015\Projects\AcikAkademiMVVM\AcikAkademiMVVM\AcikAkademiMVVM\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\yigit\documents\visual studio 2015\Projects\AcikAkademiMVVM\AcikAkademiMVVM\AcikAkademiMVVM\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\yigit\documents\visual studio 2015\Projects\AcikAkademiMVVM\AcikAkademiMVVM\AcikAkademiMVVM\obj\Debug\AcikAkademiMVVM.csprojResolveAssemblyReference.cache
+c:\users\yigit\documents\visual studio 2015\Projects\AcikAkademiMVVM\AcikAkademiMVVM\AcikAkademiMVVM\obj\Debug\AcikAkademiMVVM.Views.PersonPage.xaml.g.cs
+c:\users\yigit\documents\visual studio 2015\Projects\AcikAkademiMVVM\AcikAkademiMVVM\AcikAkademiMVVM\obj\Debug\AcikAkademiMVVM.dll
+c:\users\yigit\documents\visual studio 2015\Projects\AcikAkademiMVVM\AcikAkademiMVVM\AcikAkademiMVVM\obj\Debug\AcikAkademiMVVM.pdb
+c:\users\yigit\documents\visual studio 2015\Projects\AcikAkademiMVVM\AcikAkademiMVVM\AcikAkademiMVVM\obj\Debug\AcikAkademiMVVM.dll.mdb
+c:\users\yigit\documents\visual studio 2015\Projects\AcikAkademiMVVM\AcikAkademiMVVM\AcikAkademiMVVM\bin\Debug\AcikAkademiMVVM.dll.mdb
